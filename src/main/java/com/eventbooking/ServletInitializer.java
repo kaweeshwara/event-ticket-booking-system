@@ -1,4 +1,4 @@
-package event_ticket_booking_system;
+package com.eventbooking;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
